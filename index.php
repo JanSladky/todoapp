@@ -1,4 +1,4 @@
-<?php include "_partials/header.php" ?>
+<?php include_once "_partials/header.php" ?>
 
     <div class="page-header">
         <h1>VERY MUCH TODO LIST</h1>
@@ -28,4 +28,4 @@
         </p> -->
     </form>
 
-<?php include "_partials/footer.php" ?>
+<?php include_once "_partials/footer.php" ?>
